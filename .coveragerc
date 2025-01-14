@@ -1,0 +1,8 @@
+[run]
+omit =
+    C:\Python\Course_Project\tests\*
+
+[report]
+exclude_lines =
+    def __repr__
+    def __str__

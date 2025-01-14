@@ -1,0 +1,14 @@
+1984; George Orwell; Science Fiction; 10; 1944; AAAA-1234; 88; 25
+Dune; Frank Herbert; Science Fiction; 14.99; 1965; BBBC-2424; 92; 60
+Neuromancer; William Gibson; Science Fiction; 8.99; 1984; CCCD-3535; 80; 40
+Outlander; Diana Gabaldon; Romance; 9.99; 1991; OOOO-4444; 70; 83
+The Fault in Our Stars; John Green; Romance; 12.99; 2012; TTTT-9999; 80; 76
+Me Before You; Jojo Moyes; Romance; 9.99; 2012; IIIA-9191; 93; 15
+Can You Keep a Secret?; Sophie Kinsella; Romance; 11.95; 2005; CCCC-9999; 69; 77
+Rafa: My Story; Rafael Nadal; Biography; 12.99; 2011; KKKO-1313
+Open: An Autobiography; Andre Agassi; Biography; 15.99; 2009; JJJK-0202
+Relentless: From Good to Great to Unstoppable; Tim S. Grover; Biography; 14.99; 2013; LLLA-2425
+Undergraduate Encyclopedia of Physics; Philip's; Encyclopedia; 30.00; 2017; MMMX-3536
+World Encyclopedia for High School Students; DK; Encyclopedia; 25.00; 2019; NNNZ-4647
+The New Children's Encyclopedia; DK; Encyclopedia; 20.00; 2009; CCCL-5758
+Graduate Encyclopedia of Cosmology and Astrophysics; Stephen Hawking; Encyclopedia; 35.00; 2008; DDDS-6789
